@@ -61,11 +61,11 @@ module.exports = {
 
   build: {
     // Template for x.html
-    index: path.resolve(__dirname, '../yctv/index.html'),
+    index: path.resolve(__dirname, '../initiatives/index.html'),
     // demand: path.resolve(__dirname, '../OlympicChannel/demand.html')
 
     // Paths
-    assetsRoot: path.resolve(__dirname, '../yctv'),
+    assetsRoot: path.resolve(__dirname, '../initiatives'),
     assetsSubDirectory: 'static',
     assetsPublicPath: './',
 
